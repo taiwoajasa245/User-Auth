@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 3. **Set up environment variables:**
 
-   Create a `.env` file in the `backend` directory and add the following variables:
+   Create a `.env` file in the `backend/server` directory and add the following variables:
 
    ```plaintext
    PORT = 4000
@@ -73,9 +73,7 @@ To run this project locally, follow these steps:
 
    ```
 
-to get your own 
-
-JWT_secret you run this command in your command line 
+to get your own JWT_secret you run this command in your command line 
 
 ```bash  
     node  
